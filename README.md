@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello.;I'm+Price;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+My+name+is+Price;)](https://git.io/typing-svg)
 
 <!--
 **pricesmith/pricesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
