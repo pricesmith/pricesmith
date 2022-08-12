@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Enchanté!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=)](https://git.io/typing-svg)  
 
-I'm passionate about code because I'm passionate about "making a difference". This interest has brought me through a broad expanse of concepts, technologies, and ideas. 
+I'm passionate about enabling people with tools. Ideally tools that actually offer to help or better them. This interest has brought me through a broad expanse of concepts, technologies, and ideas. 
 
 <!--
 **pricesmith/pricesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
