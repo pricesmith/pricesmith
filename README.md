@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=$:+./hello;first_name,+last_name+=+Price,+Smith)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=$:+fname+lname+=+"Price",+"Smith")](https://git.io/typing-svg)  
 
 I'm passionate about code because I'm passionate about "making a difference". This interest has brought me through a broad expanse of concepts, technologies, and ideas. 
 
