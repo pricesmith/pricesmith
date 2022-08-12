@@ -1,7 +1,7 @@
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=)](https://git.io/typing-svg)  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=500&center=true&multiline=true&width=870&lines=Hello.+My+name+is+Price.;Give+me+a+job.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=500&center=true&multiline=true&width=870&lines=Hello.+My+name+is+Price.;Give+me+a+job.;:D)](https://git.io/typing-svg)
 
-My name is Price. I'm pretty passionate about enabling people with tools. Tools that actually offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas, many of which are fascinating, many of which give me some amount of pause. 
+My name is Price. I'm pretty passionate about enabling people with tools. Tools that actually offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas.
 
 <!--
 **pricesmith/pricesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
