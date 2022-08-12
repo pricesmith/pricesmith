@@ -3,6 +3,10 @@
 
 My name is Price. I'm pretty passionate about enabling people with tools. Tools that actually offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas.
 
+This readme is currently a wip. Bear with. 
+
+
+
 <!--
 **pricesmith/pricesmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
