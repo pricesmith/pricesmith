@@ -5,7 +5,7 @@ My name is Price. I'm pretty passionate about enabling people, societies, with t
 
 This readme is currently a wip. Bear with. 
 
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Price%20Smith/Software%20Engineer/Public%20Benefit%20Efforts/Go,%20TS,%20Python,%20Rust/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQHi9SGZ-q8U9w%2Fprofile-displayphoto-shrink_800_800%2F0%2F1660328278355%3Fe%3D1665619200%26v%3Dbeta%26t%3Dnc3Ss4E75hAz2MBRsIZtvlQlr0mYHIRyJxJuXJq5QdA)](https://www.linkedin.com/in/pricesmith/)
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Price%20Smith/Software%20Engineer/Interstitial.coop/Go,%20TS,%20Python,%20Rust/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC5603AQHi9SGZ-q8U9w%2Fprofile-displayphoto-shrink_800_800%2F0%2F1660328278355%3Fe%3D1665619200%26v%3Dbeta%26t%3Dnc3Ss4E75hAz2MBRsIZtvlQlr0mYHIRyJxJuXJq5QdA)](https://www.linkedin.com/in/pricesmith/)
 
 
 
