@@ -1,5 +1,5 @@
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=)](https://git.io/typing-svg)  -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=500&center=true&multiline=true&width=870&lines=Hello.+My+name+is+Price.;I+like+to+work+on+things+that+actually+matter.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=500&center=true&multiline=true&width=870&lines=Hello.+My+name+is+Price.;I+like+to+build+tools+for+society.;)](https://git.io/typing-svg)
 
 My name is Price. I'm pretty passionate about enabling people, societies, with tools-- tools that *actually* offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas.
 
