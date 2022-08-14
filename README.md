@@ -3,6 +3,8 @@
 
 My name is Price. I'm pretty passionate about enabling people, societies, with tools-- tools that *actually* offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas.
 
+<!-- Discovering more about the world. Making art more interesting. -->
+
 This readme is currently a wip. Bear with. 
 
 <a href="<https://www.linkedin.com/in/pricesmith/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
