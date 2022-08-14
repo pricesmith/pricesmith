@@ -3,6 +3,13 @@
 
 My name is Price. I'm pretty passionate about enabling people, societies, with tools-- tools that *actually* offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas.
 
+This is not necessarily a professional tool for me. It's more a desk/personal workspace to tinker with interests, house builds, etc. Here's a little about what you'll see in this repo. 
+
+Triplestore implementation research:
+akutan-analysis
+cayley-analysis
+akutan-rf
+
 <!-- Discovering more about the world. Making art more interesting. -->
 
 This readme is currently a wip. Bear with. 
