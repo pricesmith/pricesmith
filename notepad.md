@@ -11,6 +11,9 @@
 ## TODOs!!!!!
 
 ## OS
+### Build One
+- [... in Go](https://lsub.org/clive/)
+- [... in RS](https://os.phil-opp.com/minimal-rust-kernel/)
 
 ## Dist Sys
 
