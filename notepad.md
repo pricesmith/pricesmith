@@ -1,8 +1,8 @@
 # Big, Fat, Unstructured Notepad
 
 ## Current Reminders and Affirmations
-    If you have a clearly defined goal, it's ok to make slow progress, or to not feel like you're making progress. Just be consistent. 
-    And make damn sure to keep re-evaluating / redefining that goal. 
+    If you have a clearly defined goal, it's ok to make slow progress, or to not feel like you're making progress. 
+    Just be consistent. And make damn sure to keep re-evaluating / redefining that goal. 
 
     (This is for all the techie stalkers reading this--) Don't make solutions for problems that don't exist. 
 
