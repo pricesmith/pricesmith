@@ -1,11 +1,14 @@
 <!--   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=)](https://git.io/typing-svg)  -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=500&center=true&multiline=true&width=870&lines=Hello.+My+name+is+Price.;Give+me+a+job.;)](https://git.io/typing-svg)
 
-My name is Price. I'm pretty passionate about enabling people, societies, with tools-- tools that *actually* offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas.
+My name is Price. I'm pretty passionate about enabling people, societies, with tools-- tools that *actually* offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas. 
 
-This is not necessarily a professional tool for me. It's more a desk/personal workspace to tinker with interests, house builds, etc. Here's a little about what you'll see in this repo. 
+Heads up, this is not exclusively a professional tool for me-- it's more a desk/personal workspace to tinker with interests, house builds, etc. So there are loads and loads of [WIP] repos. 
 
-Triplestore implementation research:
+
+
+Here's a little about what you'll see in this GH: 
+##### Triplestore implementation research:
 akutan-analysis
 cayley-analysis
 akutan-rf
