@@ -8,7 +8,15 @@ Heads up, this is not exclusively a professional tool for me-- it's more a desk/
 
 
 Here's a little about what you'll see in this GH: 
-##### Triplestore implementation research:
+
+#### DS-Algo & Why (As related to personal interest implementations)
+##### Triplestore Related
+##### ML Related
+
+### Projects
+#### OSP
+
+#### Triplestore implementation research:
 akutan-analysis
 cayley-analysis
 akutan-rf
