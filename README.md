@@ -11,20 +11,6 @@ I'm often pretty big picture. At least when left to my own projects.
 Love working with teams, am diplomatic and easy-going. 
 
 
-Here's a little about what you'll see in this GH: 
-
-#### DS-Algo & Why (As related to personal interest implementations)
-##### Triplestore Related
-##### ML Related
-
-### Projects
-#### OSP
-
-#### Triplestore implementation research:
-akutan-analysis
-cayley-analysis
-akutan-rf
-
 <!-- Discovering more about the world. Making art more interesting. -->
 
 This readme is currently a wip. Bear with. 
