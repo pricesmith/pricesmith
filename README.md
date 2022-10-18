@@ -3,6 +3,8 @@
 
 Heads up, this is not exclusively a professional tool for me-- it's more a desk/personal workspace to tinker with interests, house builds, etc. So there are loads and loads of [WIP] repos. 
 
+Synthesizing a narrative for this is not easy. 
+
 My name is Price. I'm passionate about learning, creativity, enabling people and societies, with tools-- tools that *actually* offer some sort of utility or knowledge to its users. Code is a great way to achieve that. This interest has brought me through a broad expanse of concepts, technologies, and ideas. 
 
 I'm often pretty big picture. At least when left to my own projects. 
