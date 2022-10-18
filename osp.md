@@ -1,4 +1,4 @@
 # OSP
 
-Don't worry about the acronym
+Research project. 
 
