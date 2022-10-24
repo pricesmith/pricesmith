@@ -15,6 +15,8 @@ Love working with teams, am diplomatic and easy-going.
 
 This readme is currently a wip. Bear with. 
 
+----
+
 <a href="<https://www.linkedin.com/in/pricesmith/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
