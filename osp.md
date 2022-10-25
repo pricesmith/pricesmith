@@ -6,6 +6,10 @@ A community research project proposal aimed at exploring tooling, infrastructure
 
 ## What's an Ontology
 
+## Example / PoC / MVP Use Case
+
+- Factory Farming
+
 
 
 ## Questions
